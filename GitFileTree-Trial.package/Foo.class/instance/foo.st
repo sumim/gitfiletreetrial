@@ -1,3 +1,3 @@
 accessing
 foo
-	^self
+	^#foo
