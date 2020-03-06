@@ -1,3 +1,3 @@
 accessing
 baz
-	^ 'baz'
+	^#baz
